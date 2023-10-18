@@ -1,2 +1,1 @@
-# probando
-a ver si sale
+este proyecto es un proyecto de como crear un repositorio y clonarlo desde git hub
